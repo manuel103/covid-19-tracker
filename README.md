@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). & uses the disease.sh API
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) & uses the [disease.sh](disease.sh) API.
 
 ### Demo: https://covid-19-tracker-7f122.web.app
 
